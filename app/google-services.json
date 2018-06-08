@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "755690064853",
+    "firebase_url": "https://speechrecognizer-6ccbc.firebaseio.com",
+    "project_id": "speechrecognizer-6ccbc",
+    "storage_bucket": "speechrecognizer-6ccbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755690064853:android:69cd3fb9594d5ca8",
+        "android_client_info": {
+          "package_name": "com.example.pratyush.speechrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755690064853-mtmg9kpbiknq87a193a7uv530hn38efi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pratyush.speechrecognizer",
+            "certificate_hash": "64095b609b652861d704796a41810e0133a4945b"
+          }
+        },
+        {
+          "client_id": "755690064853-b5p0j12v0oj1sh03btkqmo2oaj10h3u7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "755690064853-0nf5ammjtjniqv0pl2qdirfij9rdr420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7OVlMcGbWU3uq4w6zu3X0B5xlLAYH74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755690064853-b5p0j12v0oj1sh03btkqmo2oaj10h3u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
